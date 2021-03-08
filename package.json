@@ -1,0 +1,9 @@
+{
+  "name": "programming_test",
+  "version": "1.0.0",
+  "description": "continental automotive test",
+  "main": "test.js",
+  "author": "JA",
+  "license": "ISC",
+  "type": "module"
+}
